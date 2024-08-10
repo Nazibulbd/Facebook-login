@@ -3,6 +3,7 @@
 
 body{
     font-family: 'Epilogue', sans-serif;
+    background-color: bisque;
 }
 #facebook_login_1{
     display: none;
@@ -69,7 +70,6 @@ align-items: center;
 margin-top: 60px;
 }
 .inner_box .mata{}
-
 
 
 
